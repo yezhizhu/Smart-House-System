@@ -1,0 +1,26 @@
+/* .erweima{
+justify-content: center;
+}
+.tupian{
+   width: 400rpx;
+  height: 400rpx;
+  margin-top: 30rpx;
+} */
+
+.imagesize{
+ display:flex;                   
+ justify-content: center; 
+ margin-top: 100rpx;
+ margin-left: 80rpx       
+}
+.imagesize image { 
+  width:400rpx;
+  height:400rpx;
+  }
+.gongzhonghao{
+  font-size: 50rpx;
+  text-align: center;
+  color: yellow;
+  margin-top: 50rpx;
+  margin-left: 80rpx
+}

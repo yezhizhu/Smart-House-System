@@ -1,0 +1,27 @@
+.kai{
+  border: 1px solid black;
+  margin-top: 30rpx;
+ 
+}
+.guan{
+  border: 1px solid black;
+margin-top: 20rpx;
+
+}
+.open{
+width:450rpx; 
+height: 450rpx;
+/* margin-top: 520rpx;
+margin-left: 96rpx; */
+ margin-top: 80rpx   
+}
+.clos{
+width:450rpx; 
+height: 450rpx;
+ margin-top: 80rpx   
+}
+.yangshi{
+ display:flex;                   
+ justify-content: center;
+       
+}

@@ -1,0 +1,8 @@
+<view class="yangshi">
+<image class="liang" wx:if="{{state<=0}}" src="../../images/kaideng.jpg"></image>
+</view>
+<view class="yangshi">
+<image class="mie" wx:if="{{state>=1}}" src="../../images/guandeng.jpg"></image>
+</view>
+<button class="kai" bindtap="dakai">开</button>
+<button class="guan" bindtap="guanbi">关</button>

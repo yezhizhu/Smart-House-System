@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/article/article",
+    "pages/deng/deng",
+    "pages/chuang/chuang",
+    "pages/call/call",
+    "pages/weather/weather",
+    "pages/tianqi/tianqi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "智能家居",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "家电控制",
+        "iconPath": "images/692818817837528592.jpg",
+        "selectedIconPath": "images/chatou(shixin).jpg"
+      },
+      {
+        "pagePath": "pages/call/call",
+        "text": "一键呼叫",
+        "iconPath": "images/dianhua(weixuanzhong ).jpg",
+        "selectedIconPath": "images/dianhua(xuanzhong).png"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "天气预报",
+        "iconPath": "images/tianqi(kongxin)2.jpg",
+        "selectedIconPath": "images/tianqi(shixin)2.jpg"
+      },
+      {
+        "pagePath": "pages/article/article",
+        "text": "养生推荐",
+        "iconPath": "images/wenjian(kongxin)2.jpg",
+        "selectedIconPath": "images/wenjian(shixin)2.jpg"
+      }
+    ]
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap54.json"
+}

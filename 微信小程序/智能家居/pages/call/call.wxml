@@ -1,0 +1,4 @@
+<button class="zinv" type="default" bindtap="calling1">呼叫子女</button>
+<button class="baojing" type="default" bindtap="calling2">一键报警</button>
+<button class="huojing" type="default" bindtap="calling3">火警</button>
+<button class="jijiu" type="default" bindtap="calling4">急救</button>

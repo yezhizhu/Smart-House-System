@@ -1,0 +1,33 @@
+{
+    "enablePullDownRefresh":true,
+   
+   "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "家电控制",
+        "iconPath": "images/chatou(kongxin).jpg",
+        "selectedIconPath": "images/chatou(shixin).jpg"
+      },
+      {
+        "pagePath": "pages/call/call",
+        "text": "一键呼叫",
+        "iconPath": "images/wenjian(kongxin).jpg",
+        "selectedIconPath": "images/wenjian(shixin).jpg"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "天气预报",
+        "iconPath": "images/wenjian(kongxin).jpg",
+        "selectedIconPath": "images/wenjian(shixin).jpg"
+      },
+      {
+        "pagePath": "pages/article/article",
+        "text": "养生推荐",
+        "iconPath": "images/wenjian(kongxin).jpg",
+        "selectedIconPath": "images/wenjian(shixin).jpg"
+      }
+    ]
+  }
+}
+ 

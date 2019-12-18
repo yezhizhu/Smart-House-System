@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="jx_card">
+   <image class="deng" src='../../images/deng.jpg' bindtap="send1"></image>
+<image class="chuang" src="../../images/chuang.jpg" bindtap="send2"></image>
+</view>
+<button class="btn1" bindtap="navigate">查看我的家</button>
+
